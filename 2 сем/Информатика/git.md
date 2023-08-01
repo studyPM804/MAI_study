@@ -1,6 +1,6 @@
 # Гитхабы студентов
 
-***104Б-22 Группа*** \
+**104Б-22 Группа** \
 [Алиев Руслан Магомедович](https://github.com/youngrusik) \
 [Блинова Мария Олеговна](https://github.com/sopasopasopasopa) \
 [Жарков Александр Алексеевич](https://github.com/alexandrerro) \
